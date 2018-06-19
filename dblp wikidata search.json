@@ -1,0 +1,440 @@
+{
+"result":{
+"query":"wikidata*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"20.01"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"69",
+"@dc":"68",
+"@oc":"69",
+"@id":"19900315",
+"text":"wikidata"
+}
+},
+"hits":{
+"@total":"68",
+"@computed":"68",
+"@sent":"68",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"254243",
+"info":{"authors":{"author":"Joachim Neubert"},"title":"Wikidata as a Linking Hub for Knowledge Organization Systems? Integrating an Authority Mapping into Wikidata and Learning Lessons for KOS Mappings.","venue":"NKOS@TPDL","pages":"14-25","year":"2017","type":"Conference and Workshop Papers","key":"conf/ercimdl/Neubert17","ee":"http://ceur-ws.org/Vol-1937/paper2.pdf","url":"https://dblp.org/rec/conf/ercimdl/Neubert17"},
+"url":"URL#254243"
+},
+{
+"@score":"1",
+"@id":"41126",
+"info":{"authors":{"author":["Michael Färber 0001","Frederic Bartscherer","Carsten Menne","Achim Rettinger"]},"title":"Linked data quality of DBpedia, Freebase, OpenCyc, Wikidata, and YAGO.","venue":"Semantic Web","volume":"9","number":"1","pages":"77-129","year":"2018","type":"Journal Articles","key":"journals/semweb/FarberBMR18","doi":"10.3233/SW-170275","ee":"https://doi.org/10.3233/SW-170275","url":"https://dblp.org/rec/journals/semweb/FarberBMR18"},
+"url":"URL#41126"
+},
+{
+"@score":"1",
+"@id":"62547",
+"info":{"authors":{"author":["Lucie-Aimée Kaffee","Hady ElSahar","Pavlos Vougiouklis","Christophe Gravier","Frédérique Laforest","Jonathon S. Hare","Elena Simperl"]},"title":"Mind the (Language) Gap - Generation of Multilingual Wikipedia Summaries from Wikidata for ArticlePlaceholders.","venue":"ESWC","pages":"319-334","year":"2018","type":"Conference and Workshop Papers","key":"conf/esws/KaffeeEVGLHS18","doi":"10.1007/978-3-319-93417-4_21","ee":"https://doi.org/10.1007/978-3-319-93417-4_21","url":"https://dblp.org/rec/conf/esws/KaffeeEVGLHS18"},
+"url":"URL#62547"
+},
+{
+"@score":"1",
+"@id":"69602",
+"info":{"authors":{"author":"Timothy Kanke"},"title":"Preliminary Exploration of Knowledge Curation Activities in Wikidata WikiProjects.","venue":"JCDL","pages":"349-350","year":"2018","type":"Conference and Workshop Papers","key":"conf/jcdl/Kanke18","doi":"10.1145/3197026.3203878","ee":"http://doi.acm.org/10.1145/3197026.3203878","url":"https://dblp.org/rec/conf/jcdl/Kanke18"},
+"url":"URL#69602"
+},
+{
+"@score":"1",
+"@id":"71943",
+"info":{"authors":{"author":["Lucie-Aimée Kaffee","Hady ElSahar","Pavlos Vougiouklis","Christophe Gravier","Frédérique Laforest","Jonathon S. Hare","Elena Simperl"]},"title":"Learning to Generate Wikipedia Summaries for Underserved Languages from Wikidata.","venue":"NAACL-HLT","pages":"640-645","year":"2018","type":"Conference and Workshop Papers","key":"conf/naacl/KaffeeEVGLHS18","ee":"https://aclanthology.info/papers/N18-2101/n18-2101","url":"https://dblp.org/rec/conf/naacl/KaffeeEVGLHS18"},
+"url":"URL#71943"
+},
+{
+"@score":"1",
+"@id":"76861",
+"info":{"authors":{"author":["Vevake Balaraman","Simon Razniewski","Werner Nutt"]},"title":"Recoin - Relative Completeness in Wikidata.","venue":"WWW","pages":"1787-1792","year":"2018","type":"Conference and Workshop Papers","key":"conf/www/BalaramanRN18","doi":"10.1145/3184558.3191641","ee":"http://doi.acm.org/10.1145/3184558.3191641","url":"https://dblp.org/rec/conf/www/BalaramanRN18"},
+"url":"URL#76861"
+},
+{
+"@score":"1",
+"@id":"76967",
+"info":{"authors":{"author":["Sebastián Ferrada","Nicolás Bravo","Benjamin Bustos","Aidan Hogan"]},"title":"Querying Wikimedia Images using Wikidata Facts.","venue":"WWW","pages":"1815-1821","year":"2018","type":"Conference and Workshop Papers","key":"conf/www/FerradaBBH18","doi":"10.1145/3184558.3191646","ee":"http://doi.acm.org/10.1145/3184558.3191646","url":"https://dblp.org/rec/conf/www/FerradaBBH18"},
+"url":"URL#76967"
+},
+{
+"@score":"1",
+"@id":"77180",
+"info":{"authors":{"author":"Finn Årup Nielsen"},"title":"Linking ImageNet WordNet Synsets with Wikidata.","venue":"WWW","pages":"1809-1814","year":"2018","type":"Conference and Workshop Papers","key":"conf/www/Nielsen18","doi":"10.1145/3184558.3191645","ee":"http://doi.acm.org/10.1145/3184558.3191645","url":"https://dblp.org/rec/conf/www/Nielsen18"},
+"url":"URL#77180"
+},
+{
+"@score":"1",
+"@id":"77233",
+"info":{"authors":{"author":["Tomás Sáez","Aidan Hogan"]},"title":"Automatically Generating Wikipedia Info-boxes from Wikidata.","venue":"WWW","pages":"1823-1830","year":"2018","type":"Conference and Workshop Papers","key":"conf/www/SaezH18","doi":"10.1145/3184558.3191647","ee":"http://doi.acm.org/10.1145/3184558.3191647","url":"https://dblp.org/rec/conf/www/SaezH18"},
+"url":"URL#77233"
+},
+{
+"@score":"1",
+"@id":"77259",
+"info":{"authors":{"author":"Elena Simperl"},"title":"Loops of Humans and Bots in Wikidata.","venue":"WWW","pages":"1107","year":"2018","type":"Conference and Workshop Papers","key":"conf/www/Simperl18","doi":"10.1145/3184558.3191552","ee":"http://doi.acm.org/10.1145/3184558.3191552","url":"https://dblp.org/rec/conf/www/Simperl18"},
+"url":"URL#77259"
+},
+{
+"@score":"1",
+"@id":"77290",
+"info":{"authors":{"author":["Thomas Pellissier Tanon","Lucie-Aimée Kaffee"]},"title":"Property Label Stability in Wikidata - Evolution and Convergence of Schemas in Collaborative Knowledge Bases.","venue":"WWW","pages":"1801-1803","year":"2018","type":"Conference and Workshop Papers","key":"conf/www/TanonK18","doi":"10.1145/3184558.3191643","ee":"http://doi.acm.org/10.1145/3184558.3191643","url":"https://dblp.org/rec/conf/www/TanonK18"},
+"url":"URL#77290"
+},
+{
+"@score":"1",
+"@id":"85228",
+"info":{"authors":{"author":"Finn Årup Nielsen"},"title":"Linking ImageNet WordNet Synsets with Wikidata.","venue":"CoRR","volume":"abs/1803.04349","year":"2018","type":"Informal Publications","key":"journals/corr/abs-1803-04349","ee":"http://arxiv.org/abs/1803.04349","url":"https://dblp.org/rec/journals/corr/abs-1803-04349"},
+"url":"URL#85228"
+},
+{
+"@score":"1",
+"@id":"86003",
+"info":{"authors":{"author":["Lucie-Aimée Kaffee","Hady ElSahar","Pavlos Vougiouklis","Christophe Gravier","Frédérique Laforest","Jonathon S. Hare","Elena Simperl"]},"title":"Learning to Generate Wikipedia Summaries for Underserved Languages from Wikidata.","venue":"CoRR","volume":"abs/1803.07116","year":"2018","type":"Informal Publications","key":"journals/corr/abs-1803-07116","ee":"http://arxiv.org/abs/1803.07116","url":"https://dblp.org/rec/journals/corr/abs-1803-07116"},
+"url":"URL#86003"
+},
+{
+"@score":"1",
+"@id":"106902",
+"info":{"authors":{"author":["Tim E. Putman","Sebastien Lelong","Sebastian Burgstaller-Muehlbacher","Andra Waagmeester","Colin M. Diesh","Nathan Dunn","Monica C. Munoz-Torres","Gregory S. Stupp","Chunlei Wu","Andrew I. Su","Benjamin M. Good"]},"title":"WikiGenomes - an open web application for community consumption and curation of gene annotation data in Wikidata.","venue":"Database","volume":"2017","pages":"bax025","year":"2017","type":"Journal Articles","key":"journals/biodb/PutmanLBWDDMSWS17","doi":"10.1093/DATABASE/BAX025","ee":"https://doi.org/10.1093/database/bax025","url":"https://dblp.org/rec/journals/biodb/PutmanLBWDDMSWS17"},
+"url":"URL#106902"
+},
+{
+"@score":"1",
+"@id":"219225",
+"info":{"authors":{"author":["Houcemeddine Turki","Denny Vrandecic","Helmi Hamdi","Imed Adel"]},"title":"Using WikiData as a Multi-lingual Multi-dialectal Dictionary for Arabic Dialects.","venue":"AICCSA","pages":"437-442","year":"2017","type":"Conference and Workshop Papers","key":"conf/aiccsa/TurkiVHA17","doi":"10.1109/AICCSA.2017.115","ee":"https://doi.org/10.1109/AICCSA.2017.115","url":"https://dblp.org/rec/conf/aiccsa/TurkiVHA17"},
+"url":"URL#219225"
+},
+{
+"@score":"1",
+"@id":"229236",
+"info":{"authors":{"author":["Kwan Hui Lim","Shanika Karunasekera","Aaron Harwood","Lucia Falzon"]},"title":"Spatial-based topic modelling using wikidata knowledge base.","venue":"BigData","pages":"4786-4788","year":"2017","type":"Conference and Workshop Papers","key":"conf/bigdataconf/LimKHF17","doi":"10.1109/BIGDATA.2017.8258542","ee":"https://doi.org/10.1109/BigData.2017.8258542","url":"https://dblp.org/rec/conf/bigdataconf/LimKHF17"},
+"url":"URL#229236"
+},
+{
+"@score":"1",
+"@id":"242839",
+"info":{"authors":{"author":["D. Abián","F. Guerra","J. Martínez-Romanos","Raquel Trillo Lado"]},"title":"Wikidata and DBpedia - A Comparative Study.","venue":"International KEYSTONE Conference","pages":"142-154","year":"2017","type":"Conference and Workshop Papers","key":"conf/cost/AbianGML17","doi":"10.1007/978-3-319-74497-1_14","ee":"https://doi.org/10.1007/978-3-319-74497-1_14","url":"https://dblp.org/rec/conf/cost/AbianGML17"},
+"url":"URL#242839"
+},
+{
+"@score":"1",
+"@id":"249315",
+"info":{"authors":{"author":["Ben Hachey","Will Radford","Andrew Chisholm"]},"title":"Learning to generate one-sentence biographies from Wikidata.","venue":"EACL","pages":"633-642","year":"2017","type":"Conference and Workshop Papers","key":"conf/eacl/HacheyRC17","ee":"https://aclanthology.info/papers/E17-1060/e17-1060","url":"https://dblp.org/rec/conf/eacl/HacheyRC17"},
+"url":"URL#249315"
+},
+{
+"@score":"1",
+"@id":"255008",
+"info":{"authors":{"author":["Finn Årup Nielsen","Daniel Mietchen","Egon L. Willighagen"]},"title":"Scholia, Scientometrics and Wikidata.","venue":"ESWC","pages":"237-259","year":"2017","type":"Conference and Workshop Papers","key":"conf/esws/NielsenMW17","doi":"10.1007/978-3-319-70407-4_36","ee":"https://doi.org/10.1007/978-3-319-70407-4_36","url":"https://dblp.org/rec/conf/esws/NielsenMW17"},
+"url":"URL#255008"
+},
+{
+"@score":"1",
+"@id":"262549",
+"info":{"authors":{"author":["Johanna Geiß","Andreas Spitz","Michael Gertz"]},"title":"NECKAr - A Named Entity Classifier for Wikidata.","venue":"GSCL","pages":"115-129","year":"2017","type":"Conference and Workshop Papers","key":"conf/gldv/GeissSG17","doi":"10.1007/978-3-319-73706-5_10","ee":"https://doi.org/10.1007/978-3-319-73706-5_10","url":"https://dblp.org/rec/conf/gldv/GeissSG17"},
+"url":"URL#262549"
+},
+{
+"@score":"1",
+"@id":"312319",
+"info":{"authors":{"author":["Daniel Ringler","Heiko Paulheim"]},"title":"One Knowledge Graph to Rule Them All? Analyzing the Differences Between DBpedia, YAGO, Wikidata &amp; co.","venue":"KI","pages":"366-372","year":"2017","type":"Conference and Workshop Papers","key":"conf/ki/RinglerP17","doi":"10.1007/978-3-319-67190-1_33","ee":"https://doi.org/10.1007/978-3-319-67190-1_33","url":"https://dblp.org/rec/conf/ki/RinglerP17"},
+"url":"URL#312319"
+},
+{
+"@score":"1",
+"@id":"322574",
+"info":{"authors":{"author":["Xi Yang","Shiya Ren","Yuan Li","Ke Shen","Zhixing Li","Guoyin Wang"]},"title":"Relation Linking for Wikidata Using Bag of Distribution Representation.","venue":"NLPCC","pages":"652-661","year":"2017","type":"Conference and Workshop Papers","key":"conf/nlpcc/YangRLSLW17","doi":"10.1007/978-3-319-73618-1_55","ee":"https://doi.org/10.1007/978-3-319-73618-1_55","url":"https://dblp.org/rec/conf/nlpcc/YangRLSLW17"},
+"url":"URL#322574"
+},
+{
+"@score":"1",
+"@id":"332913",
+"info":{"authors":{"author":["Maximilian Marx 0001","Markus Krötzsch"]},"title":"SQID - Towards Ontological Reasoning for Wikidata.","venue":"International Semantic Web Conference","year":"2017","type":"Conference and Workshop Papers","key":"conf/semweb/0001K17","ee":"http://ceur-ws.org/Vol-1963/paper639.pdf","url":"https://dblp.org/rec/conf/semweb/0001K17"},
+"url":"URL#332913"
+},
+{
+"@score":"1",
+"@id":"332915",
+"info":{"authors":{"author":["Peter Haase 0001","Andriy Nikolov","Johannes Trame","Artem Kozlov","Daniel M. Herzig"]},"title":"Alexa, Ask Wikidata! Voice Interaction with Knowledge Graphs using Amazon Alexa.","venue":"International Semantic Web Conference","year":"2017","type":"Conference and Workshop Papers","key":"conf/semweb/0001NTKH17","ee":"http://ceur-ws.org/Vol-1963/paper576.pdf","url":"https://dblp.org/rec/conf/semweb/0001NTKH17"},
+"url":"URL#332915"
+},
+{
+"@score":"1",
+"@id":"332981",
+"info":{"authors":{"author":["Fariz Darari","Radityo Eko Prasojo","Simon Razniewski","Werner Nutt"]},"title":"COOL-WD - A Completeness Tool for Wikidata.","venue":"International Semantic Web Conference","year":"2017","type":"Conference and Workshop Papers","key":"conf/semweb/DarariPRN17","ee":"http://ceur-ws.org/Vol-1963/paper466.pdf","url":"https://dblp.org/rec/conf/semweb/DarariPRN17"},
+"url":"URL#332981"
+},
+{
+"@score":"1",
+"@id":"332994",
+"info":{"authors":{"author":["Dennis Diefenbach","Thomas Pellissier Tanon","Kamal Deep Singh","Pierre Maret"]},"title":"Question Answering Benchmarks for Wikidata.","venue":"International Semantic Web Conference","year":"2017","type":"Conference and Workshop Papers","key":"conf/semweb/DiefenbachTSM17","ee":"http://ceur-ws.org/Vol-1963/paper555.pdf","url":"https://dblp.org/rec/conf/semweb/DiefenbachTSM17"},
+"url":"URL#332994"
+},
+{
+"@score":"1",
+"@id":"333187",
+"info":{"authors":{"author":["Alessandro Piscopo","Lucie-Aimée Kaffee","Chris Phethean","Elena Simperl"]},"title":"Provenance Information in a Collaborative Knowledge Graph - An Evaluation of Wikidata External References.","venue":"International Semantic Web Conference","pages":"542-558","year":"2017","type":"Conference and Workshop Papers","key":"conf/semweb/PiscopoKPS17","doi":"10.1007/978-3-319-68288-4_32","ee":"https://doi.org/10.1007/978-3-319-68288-4_32","url":"https://dblp.org/rec/conf/semweb/PiscopoKPS17"},
+"url":"URL#333187"
+},
+{
+"@score":"1",
+"@id":"333269",
+"info":{"authors":{"author":["Gerhard Wohlgenannt","Nikolay Klimov","Dmitry Mouromtsev","Daniil Razdyakonov","Dmitry Pavlov","Yury Emelyanov"]},"title":"Using Word Embeddings for Visual Data Exploration with Ontodia and Wikidata.","venue":"BLINK/NLIWoD3@ISWC","year":"2017","type":"Conference and Workshop Papers","key":"conf/semweb/WohlgenanntKMRP17","ee":"http://ceur-ws.org/Vol-1932/paper-03.pdf","url":"https://dblp.org/rec/conf/semweb/WohlgenanntKMRP17"},
+"url":"URL#333269"
+},
+{
+"@score":"1",
+"@id":"338419",
+"info":{"authors":{"author":["Alessandro Piscopo","Chris Phethean","Elena Simperl"]},"title":"What Makes a Good Collaborative Knowledge Graph - Group Composition and Quality in Wikidata.","venue":"SocInfo","pages":"305-322","year":"2017","type":"Conference and Workshop Papers","key":"conf/socinfo/PiscopoPS17","doi":"10.1007/978-3-319-67217-5_19","ee":"https://doi.org/10.1007/978-3-319-67217-5_19","url":"https://dblp.org/rec/conf/socinfo/PiscopoPS17"},
+"url":"URL#338419"
+},
+{
+"@score":"1",
+"@id":"349734",
+"info":{"authors":{"author":["Lucie-Aimée Kaffee","Alessandro Piscopo","Pavlos Vougiouklis","Elena Simperl","Leslie Carr","Lydia Pintscher"]},"title":"A Glimpse into Babel - An Analysis of Multilinguality in Wikidata.","venue":"OpenSym","pages":"14:1-14:5","year":"2017","type":"Conference and Workshop Papers","key":"conf/wikis/KaffeePVSCP17","doi":"10.1145/3125433.3125465","ee":"http://doi.acm.org/10.1145/3125433.3125465","url":"https://dblp.org/rec/conf/wikis/KaffeePVSCP17"},
+"url":"URL#349734"
+},
+{
+"@score":"1",
+"@id":"349750",
+"info":{"authors":{"author":["Alessandro Piscopo","Pavlos Vougiouklis","Lucie-Aimée Kaffee","Christopher Phethean","Jonathon S. Hare","Elena Simperl"]},"title":"What do Wikidata and Wikipedia Have in Common? - An Analysis of their Use of External References.","venue":"OpenSym","pages":"1:1-1:10","year":"2017","type":"Conference and Workshop Papers","key":"conf/wikis/PiscopoVKPHS17","doi":"10.1145/3125433.3125445","ee":"http://doi.acm.org/10.1145/3125433.3125445","url":"https://dblp.org/rec/conf/wikis/PiscopoVKPHS17"},
+"url":"URL#349750"
+},
+{
+"@score":"1",
+"@id":"352324",
+"info":{"authors":{"author":["Amir Sarabadani","Aaron Halfaker","Dario Taraborelli"]},"title":"Building Automated Vandalism Detection Tools for Wikidata.","venue":"WWW","pages":"1647-1654","year":"2017","type":"Conference and Workshop Papers","key":"conf/www/SarabadaniHT17","doi":"10.1145/3041021.3053366","ee":"http://doi.acm.org/10.1145/3041021.3053366","url":"https://dblp.org/rec/conf/www/SarabadaniHT17"},
+"url":"URL#352324"
+},
+{
+"@score":"1",
+"@id":"362159",
+"info":{"authors":{"author":["Andrew Chisholm","Will Radford","Ben Hachey"]},"title":"Learning to generate one-sentence biographies from Wikidata.","venue":"CoRR","volume":"abs/1702.06235","year":"2017","type":"Informal Publications","key":"journals/corr/ChisholmRH17","ee":"http://arxiv.org/abs/1702.06235","url":"https://dblp.org/rec/journals/corr/ChisholmRH17"},
+"url":"URL#362159"
+},
+{
+"@score":"1",
+"@id":"370065",
+"info":{"authors":{"author":["Finn Årup Nielsen","Daniel Mietchen","Egon L. Willighagen"]},"title":"Scholia and scientometrics with Wikidata.","venue":"CoRR","volume":"abs/1703.04222","year":"2017","type":"Informal Publications","key":"journals/corr/NielsenMW17","ee":"http://arxiv.org/abs/1703.04222","url":"https://dblp.org/rec/journals/corr/NielsenMW17"},
+"url":"URL#370065"
+},
+{
+"@score":"1",
+"@id":"371914",
+"info":{"authors":{"author":["Amir Sarabadani","Aaron Halfaker","Dario Taraborelli"]},"title":"Building automated vandalism detection tools for Wikidata.","venue":"CoRR","volume":"abs/1703.03861","year":"2017","type":"Informal Publications","key":"journals/corr/SarabadaniHT17","ee":"http://arxiv.org/abs/1703.03861","url":"https://dblp.org/rec/journals/corr/SarabadaniHT17"},
+"url":"URL#371914"
+},
+{
+"@score":"1",
+"@id":"381931",
+"info":{"authors":{"author":"Finn Årup Nielsen"},"title":"Wembedder - Wikidata entity embedding web service.","venue":"CoRR","volume":"abs/1710.04099","year":"2017","type":"Informal Publications","key":"journals/corr/abs-1710-04099","ee":"http://arxiv.org/abs/1710.04099","url":"https://dblp.org/rec/journals/corr/abs-1710-04099"},
+"url":"URL#381931"
+},
+{
+"@score":"1",
+"@id":"388106",
+"info":{"authors":{"author":["Stefan Heindorf","Martin Potthast","Gregor Engels","Benno Stein"]},"title":"Overview of the Wikidata Vandalism Detection Task at WSDM Cup 2017.","venue":"CoRR","volume":"abs/1712.05956","year":"2017","type":"Informal Publications","key":"journals/corr/abs-1712-05956","ee":"http://arxiv.org/abs/1712.05956","url":"https://dblp.org/rec/journals/corr/abs-1712-05956"},
+"url":"URL#388106"
+},
+{
+"@score":"1",
+"@id":"388318",
+"info":{"authors":{"author":["Rafael Crescenzi","Marcelo Fernández","Federico A. Garcia Calabria","Pablo Albani","Diego Tauziet","Adriana Baravalle","Andrés Sebastián D&apos;Ambrosio"]},"title":"A Production Oriented Approach for Vandalism Detection in Wikidata - The Buffaloberry Vandalism Detector at WSDM Cup 2017.","venue":"CoRR","volume":"abs/1712.06919","year":"2017","type":"Informal Publications","key":"journals/corr/abs-1712-06919","ee":"http://arxiv.org/abs/1712.06919","url":"https://dblp.org/rec/journals/corr/abs-1712-06919"},
+"url":"URL#388318"
+},
+{
+"@score":"1",
+"@id":"388320",
+"info":{"authors":{"author":["Tomoya Yamazaki","Mei Sasaki","Naoya Murakami","Takuya Makabe","Hiroki Iwasawa"]},"title":"Ensemble Models for Detecting Wikidata Vandalism with Stacking - Team Honeyberry Vandalism Detector at WSDM Cup 2017.","venue":"CoRR","volume":"abs/1712.06921","year":"2017","type":"Informal Publications","key":"journals/corr/abs-1712-06921","ee":"http://arxiv.org/abs/1712.06921","url":"https://dblp.org/rec/journals/corr/abs-1712-06921"},
+"url":"URL#388320"
+},
+{
+"@score":"1",
+"@id":"388321",
+"info":{"authors":{"author":["Qi Zhu","Hongwei Ng","Liyuan Liu","Ziwei Ji","Bingjie Jiang","Jiaming Shen","Huan Gui"]},"title":"Wikidata Vandalism Detection - The Loganberry Vandalism Detector at WSDM Cup 2017.","venue":"CoRR","volume":"abs/1712.06922","year":"2017","type":"Informal Publications","key":"journals/corr/abs-1712-06922","ee":"http://arxiv.org/abs/1712.06922","url":"https://dblp.org/rec/journals/corr/abs-1712-06922"},
+"url":"URL#388321"
+},
+{
+"@score":"1",
+"@id":"402269",
+"info":{"authors":{"author":["Sebastian Burgstaller-Muehlbacher","Andra Waagmeester","Elvira Mitraka","Julia Turner","Tim E. Putman","Justin Leong","Chinmay Naik","Paul Pavlidis","Lynn M. Schriml","Benjamin M. Good","Andrew I. Su"]},"title":"Wikidata as a semantic framework for the Gene Wiki initiative.","venue":"Database","volume":"2016","year":"2016","type":"Journal Articles","key":"journals/biodb/Burgstaller-Muehlbacher16","doi":"10.1093/DATABASE/BAW015","ee":"https://doi.org/10.1093/database/baw015","url":"https://dblp.org/rec/journals/biodb/Burgstaller-Muehlbacher16"},
+"url":"URL#402269"
+},
+{
+"@score":"1",
+"@id":"510917",
+"info":{"authors":{"author":["Hatem Mousselly Sergieh","Iryna Gurevych"]},"title":"Enriching Wikidata with Frame Semantics.","venue":"AKBC@NAACL-HLT","pages":"29-34","year":"2016","type":"Conference and Workshop Papers","key":"conf/akbc/SergiehG16","ee":"http://aclweb.org/anthology/W/W16/W16-1306.pdf","url":"https://dblp.org/rec/conf/akbc/SergiehG16"},
+"url":"URL#510917"
+},
+{
+"@score":"1",
+"@id":"528570",
+"info":{"authors":{"author":["Stefan Heindorf","Martin Potthast","Benno Stein","Gregor Engels"]},"title":"Vandalism Detection in Wikidata.","venue":"CIKM","pages":"327-336","year":"2016","type":"Conference and Workshop Papers","key":"conf/cikm/HeindorfPSE16","doi":"10.1145/2983323.2983740","ee":"http://doi.acm.org/10.1145/2983323.2983740","url":"https://dblp.org/rec/conf/cikm/HeindorfPSE16"},
+"url":"URL#528570"
+},
+{
+"@score":"1",
+"@id":"546135",
+"info":{"authors":{"author":"Jakob Voß"},"title":"Classification of Knowledge Organization Systems with Wikidata.","venue":"NKOS@TPDL","pages":"15-22","year":"2016","type":"Conference and Workshop Papers","key":"conf/ercimdl/Voss16","ee":"http://ceur-ws.org/Vol-1676/paper2.pdf","url":"https://dblp.org/rec/conf/ercimdl/Voss16"},
+"url":"URL#546135"
+},
+{
+"@score":"1",
+"@id":"565549",
+"info":{"authors":{"author":["Benjamin M. Good","Sebastian Burgstaller-Muehlbacher","Elvira Mitraka","Timothy Putman","Andrew I. Su","Andra Waagmeester"]},"title":"Opportunities and Challenges Presented by Wikidata in the Context of Biocuration.","venue":"ICBO/BioCreative","year":"2016","type":"Conference and Workshop Papers","key":"conf/icbo/GoodBMPSW16","ee":"http://ceur-ws.org/Vol-1747/BT105_ICBO2016.pdf","url":"https://dblp.org/rec/conf/icbo/GoodBMPSW16"},
+"url":"URL#565549"
+},
+{
+"@score":"1",
+"@id":"565550",
+"info":{"authors":{"author":["Benjamin M. Good","Timothy Putman","Andrew I. Su","Andra Waagmeester","Sebastian Burgstaller-Muehlbacher","Elvira Mitraka"]},"title":"Opportunities and Challenges Presented by Wikidata in the Context of Biocuration.","venue":"ICBO/BioCreative","year":"2016","type":"Conference and Workshop Papers","key":"conf/icbo/GoodPSWBM16","ee":"http://ceur-ws.org/Vol-1747/IP19_ICBO2016.pdf","url":"https://dblp.org/rec/conf/icbo/GoodPSWBM16"},
+"url":"URL#565550"
+},
+{
+"@score":"1",
+"@id":"581861",
+"info":{"authors":{"author":"Finn Årup Nielsen"},"title":"Literature, Geolocation and Wikidata.","venue":"Wiki@ICWSM","year":"2016","type":"Conference and Workshop Papers","key":"conf/icwsm/Nielsen16","ee":"http://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13201","url":"https://dblp.org/rec/conf/icwsm/Nielsen16"},
+"url":"URL#581861"
+},
+{
+"@score":"1",
+"@id":"581888",
+"info":{"authors":{"author":["Andreas Spitz","Vaibhav Dixit","Ludwig Richter","Michael Gertz","Johanna Geiß"]},"title":"State of the Union - A Data Consumer&apos;s Perspective on Wikidata and Its Properties for the Classification and Resolution of Entities.","venue":"Wiki@ICWSM","year":"2016","type":"Conference and Workshop Papers","key":"conf/icwsm/SpitzDRGG16","ee":"http://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13200","url":"https://dblp.org/rec/conf/icwsm/SpitzDRGG16"},
+"url":"URL#581888"
+},
+{
+"@score":"1",
+"@id":"627447",
+"info":{"authors":{"author":["Daniel Hernández","Aidan Hogan","Cristian Riveros","Carlos Rojas","Enzo Zerega"]},"title":"Querying Wikidata - Comparing SPARQL, Relational and Graph Databases.","venue":"International Semantic Web Conference","pages":"88-103","year":"2016","type":"Conference and Workshop Papers","key":"conf/semweb/HernandezHRRZ16","doi":"10.1007/978-3-319-46547-0_10","ee":"https://doi.org/10.1007/978-3-319-46547-0_10","url":"https://dblp.org/rec/conf/semweb/HernandezHRRZ16"},
+"url":"URL#627447"
+},
+{
+"@score":"1",
+"@id":"627502",
+"info":{"authors":{"author":["Paramita Mirza","Simon Razniewski","Werner Nutt"]},"title":"Expanding Wikidata&apos;s Parenthood Information by 178%, or How To Mine Relation Cardinality Information.","venue":"International Semantic Web Conference","year":"2016","type":"Conference and Workshop Papers","key":"conf/semweb/MirzaRN16","ee":"http://ceur-ws.org/Vol-1690/paper4.pdf","url":"https://dblp.org/rec/conf/semweb/MirzaRN16"},
+"url":"URL#627502"
+},
+{
+"@score":"1",
+"@id":"627538",
+"info":{"authors":{"author":["Radityo Eko Prasojo","Fariz Darari","Simon Razniewski","Werner Nutt"]},"title":"Managing and Consuming Completeness Information for Wikidata Using COOL-WD.","venue":"COLD@ISWC","year":"2016","type":"Conference and Workshop Papers","key":"conf/semweb/PrasojoDRN16","ee":"http://ceur-ws.org/Vol-1666/paper-02.pdf","url":"https://dblp.org/rec/conf/semweb/PrasojoDRN16"},
+"url":"URL#627538"
+},
+{
+"@score":"1",
+"@id":"633119",
+"info":{"authors":{"author":["To Tu Cuong","Claudia Müller-Birn"]},"title":"Applicability of Sequence Analysis Methods in Analyzing Peer-Production Systems - A Case Study in Wikidata.","venue":"SocInfo","pages":"142-156","year":"2016","type":"Conference and Workshop Papers","key":"conf/socinfo/CuongM16","doi":"10.1007/978-3-319-47874-6_11","ee":"https://doi.org/10.1007/978-3-319-47874-6_11","url":"https://dblp.org/rec/conf/socinfo/CuongM16"},
+"url":"URL#633119"
+},
+{
+"@score":"1",
+"@id":"636485",
+"info":{"authors":{"author":["Andra Waagmeester","Egon L. Willighagen","Núria Queralt-Rosinach","Elvira Mitraka","Sebastian Burgstaller-Muehlbacher","Tim E. Putman","Julia Turner","Lynn M. Schriml","Paul Pavlidis","Andrew I. Su","Benjamin M. Good"]},"title":"Linking Wikidata to the Rest of the Semantic Web.","venue":"SWAT4LS","year":"2016","type":"Conference and Workshop Papers","key":"conf/swat4ls/WaagmeesterWQMB16","ee":"http://ceur-ws.org/Vol-1795/paper46.pdf","url":"https://dblp.org/rec/conf/swat4ls/WaagmeesterWQMB16"},
+"url":"URL#636485"
+},
+{
+"@score":"1",
+"@id":"645710",
+"info":{"authors":{"author":["Maximilian Klein","Harsh Gupta","Vivek Rai","Piotr Konieczny","Haiyi Zhu"]},"title":"Monitoring the Gender Gap with Wikidata Human Gender Indicators.","venue":"OpenSym","pages":"16:1-16:9","year":"2016","type":"Conference and Workshop Papers","key":"conf/wikis/KleinGRKZ16","doi":"10.1145/2957792.2957798","ee":"http://doi.acm.org/10.1145/2957792.2957798","url":"https://dblp.org/rec/conf/wikis/KleinGRKZ16"},
+"url":"URL#645710"
+},
+{
+"@score":"1",
+"@id":"645733",
+"info":{"authors":{"author":["Eva Zangerle","Wolfgang Gassler","Martin Pichl","Stefan Steinhauser","Günther Specht"]},"title":"An Empirical Evaluation of Property Recommender Systems for Wikidata and Collaborative Knowledge Bases.","venue":"OpenSym","pages":"18:1-18:8","year":"2016","type":"Conference and Workshop Papers","key":"conf/wikis/ZangerleGPSS16","doi":"10.1145/2957792.2957804","ee":"http://doi.acm.org/10.1145/2957792.2957804","url":"https://dblp.org/rec/conf/wikis/ZangerleGPSS16"},
+"url":"URL#645733"
+},
+{
+"@score":"1",
+"@id":"648024",
+"info":{"authors":{"author":["Freddy Brasileiro","João Paulo A. Almeida","Victorio Albani de Carvalho","Giancarlo Guizzardi"]},"title":"Applying a Multi-Level Modeling Theory to Assess Taxonomic Hierarchies in Wikidata.","venue":"WWW","pages":"975-980","year":"2016","type":"Conference and Workshop Papers","key":"conf/www/BrasileiroACG16","doi":"10.1145/2872518.2891117","ee":"http://doi.acm.org/10.1145/2872518.2891117","url":"https://dblp.org/rec/conf/www/BrasileiroACG16"},
+"url":"URL#648024"
+},
+{
+"@score":"1",
+"@id":"648298",
+"info":{"authors":{"author":["Thomas Pellissier Tanon","Denny Vrandecic","Sebastian Schaffert","Thomas Steiner","Lydia Pintscher"]},"title":"From Freebase to Wikidata - The Great Migration.","venue":"WWW","pages":"1419-1428","year":"2016","type":"Conference and Workshop Papers","key":"conf/www/TanonVSSP16","doi":"10.1145/2872427.2874809","ee":"http://doi.acm.org/10.1145/2872427.2874809","url":"https://dblp.org/rec/conf/www/TanonVSSP16"},
+"url":"URL#648298"
+},
+{
+"@score":"1",
+"@id":"912099",
+"info":{"authors":{"author":["Daniel Hernández","Aidan Hogan","Markus Krötzsch"]},"title":"Reifying RDF - What Works Well With Wikidata?","venue":"SSWS@ISWC","pages":"32-47","year":"2015","type":"Conference and Workshop Papers","key":"conf/semweb/HernandezHK15","ee":"http://ceur-ws.org/Vol-1457/SSWS2015_paper3.pdf","url":"https://dblp.org/rec/conf/semweb/HernandezHK15"},
+"url":"URL#912099"
+},
+{
+"@score":"1",
+"@id":"920186",
+"info":{"authors":{"author":["Elvira Mitraka","Andra Waagmeester","Sebastian Burgstaller-Muehlbacher","Lynn M. Schriml","Andrew I. Su","Benjamin M. Good"]},"title":"Wikidata - A Platform for Data Integration and Dissemination for the Life Sciences and Beyond.","venue":"SWAT4LS","pages":"69-73","year":"2015","type":"Conference and Workshop Papers","key":"conf/swat4ls/MitrakaWBSSG15","ee":"http://ceur-ws.org/Vol-1546/paper_38.pdf","url":"https://dblp.org/rec/conf/swat4ls/MitrakaWBSSG15"},
+"url":"URL#920186"
+},
+{
+"@score":"1",
+"@id":"929421",
+"info":{"authors":{"author":["Claudia Müller-Birn","Benjamin Karran","Janette Lehmann","Markus Luczak-Rösch"]},"title":"Peer-production system or collaborative ontology engineering effort - what is Wikidata?","venue":"OpenSym","pages":"20:1-20:10","year":"2015","type":"Conference and Workshop Papers","key":"conf/wikis/Muller-BirnKLL15","doi":"10.1145/2788993.2789836","ee":"http://doi.acm.org/10.1145/2788993.2789836","url":"https://dblp.org/rec/conf/wikis/Muller-BirnKLL15"},
+"url":"URL#929421"
+},
+{
+"@score":"1",
+"@id":"945326",
+"info":{"authors":{"author":["Ali Ismayilov","Dimitris Kontokostas","Sören Auer","Jens Lehmann","Sebastian Hellmann"]},"title":"Wikidata through the Eyes of DBpedia.","venue":"CoRR","volume":"abs/1507.04180","year":"2015","type":"Informal Publications","key":"journals/corr/IsmayilovKALH15","ee":"http://arxiv.org/abs/1507.04180","url":"https://dblp.org/rec/journals/corr/IsmayilovKALH15"},
+"url":"URL#945326"
+},
+{
+"@score":"1",
+"@id":"972042",
+"info":{"authors":{"author":["Denny Vrandecic","Markus Krötzsch"]},"title":"Wikidata - a free collaborative knowledgebase.","venue":"Commun. ACM","volume":"57","number":"10","pages":"78-85","year":"2014","type":"Journal Articles","key":"journals/cacm/VrandecicK14","doi":"10.1145/2629489","ee":"http://doi.acm.org/10.1145/2629489","url":"https://dblp.org/rec/journals/cacm/VrandecicK14"},
+"url":"URL#972042"
+},
+{
+"@score":"1",
+"@id":"1163936",
+"info":{"authors":{"author":["Thang Hoang Ta","Chutiporn Anutariya"]},"title":"A Model for Enriching Multilingual Wikipedias Using Infobox and Wikidata Property Alignment.","venue":"JIST","pages":"335-350","year":"2014","type":"Conference and Workshop Papers","key":"conf/jist/TaA14","doi":"10.1007/978-3-319-15615-6_25","ee":"https://doi.org/10.1007/978-3-319-15615-6_25","url":"https://dblp.org/rec/conf/jist/TaA14"},
+"url":"URL#1163936"
+},
+{
+"@score":"1",
+"@id":"1186682",
+"info":{"authors":{"author":["Fredo Erxleben","Michael Günther 0002","Markus Krötzsch","Julian Mendez","Denny Vrandecic"]},"title":"Introducing Wikidata to the Linked Data Web.","venue":"International Semantic Web Conference","pages":"50-65","year":"2014","type":"Conference and Workshop Papers","key":"conf/semweb/ErxlebenGKMV14","doi":"10.1007/978-3-319-11964-9_4","ee":"https://doi.org/10.1007/978-3-319-11964-9_4","url":"https://dblp.org/rec/conf/semweb/ErxlebenGKMV14"},
+"url":"URL#1186682"
+},
+{
+"@score":"1",
+"@id":"1204255",
+"info":{"authors":{"author":["Daniel Kinzler","Lydia Pintscher"]},"title":"Wikidata - How We Brought Structured Data to Wikipedia.","venue":"OpenSym","pages":"43:1","year":"2014","type":"Conference and Workshop Papers","key":"conf/wikis/KinzlerP14","doi":"10.1145/2641580.2641583","ee":"http://doi.acm.org/10.1145/2641580.2641583","url":"https://dblp.org/rec/conf/wikis/KinzlerP14"},
+"url":"URL#1204255"
+},
+{
+"@score":"1",
+"@id":"1204275",
+"info":{"authors":{"author":"Thomas Steiner"},"title":"Bots vs. Wikipedians, Anons vs. Logged-Ins (Redux) - A Global Study of Edit Activity on Wikipedia and Wikidata.","venue":"OpenSym","pages":"25:1-25:7","year":"2014","type":"Conference and Workshop Papers","key":"conf/wikis/Steiner14","doi":"10.1145/2641580.2641613","ee":"http://doi.acm.org/10.1145/2641580.2641613","url":"https://dblp.org/rec/conf/wikis/Steiner14"},
+"url":"URL#1204275"
+},
+{
+"@score":"1",
+"@id":"1261913",
+"info":{"authors":{"author":"Denny Vrandecic"},"title":"The Rise of Wikidata.","venue":"IEEE Intelligent Systems","volume":"28","number":"4","pages":"90-95","year":"2013","type":"Journal Articles","key":"journals/expert/Vrandecic13","doi":"10.1109/MIS.2013.119","ee":"https://doi.org/10.1109/MIS.2013.119","url":"https://dblp.org/rec/journals/expert/Vrandecic13"},
+"url":"URL#1261913"
+},
+{
+"@score":"1",
+"@id":"1727536",
+"info":{"authors":{"author":"Denny Vrandecic"},"title":"Wikidata - a new platform for collaborative data collection.","venue":"WWW","pages":"1063-1064","year":"2012","type":"Conference and Workshop Papers","key":"conf/www/Vrandecic12","doi":"10.1145/2187980.2188242","ee":"http://doi.acm.org/10.1145/2187980.2188242","url":"https://dblp.org/rec/conf/www/Vrandecic12"},
+"url":"URL#1727536"
+}
+]
+}
+}
+}
